@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Describes behavior of morse decoding
+ * Describes behavior of morse encoding
  */
 
 public class MorseCode {
