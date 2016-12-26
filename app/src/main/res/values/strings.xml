@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Morsemail</string>
+
+    <!-- Message send button -->
+    <string name="send">отправить</string>
+    <!-- App behavior description -->
+    <string name="description">Короткое нажатие нижней клавиши громкости : \".\"\n
+    Длительное нажатие нижней клавиши громкости : \"-\"\n
+    Короткое нажатие верхней клавиши громкости : разделитель между символами\n
+    Длительное нажатие верхней клавиши громкости : пробел</string>
+
+
+</resources>
