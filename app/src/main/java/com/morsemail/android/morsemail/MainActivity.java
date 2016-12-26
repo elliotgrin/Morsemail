@@ -23,7 +23,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     * A char encoded Morse code
+     * A char encoded in Morse code
      */
     private ArrayList<Integer> charCode;
 
